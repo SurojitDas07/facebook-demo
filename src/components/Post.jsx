@@ -25,7 +25,7 @@ const Post = () => {
     <CardMedia
       component="img"
       height="20%"
-      image="https://scontent.fccu14-1.fna.fbcdn.net/v/t39.30808-6/323887470_909813640455346_881052384357561917_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=DAs56fuSfRcAX9EWaKf&_nc_oc=AQkO973_IaJYIUxBGRQmfT8abbOg7Cgfkqd7CWMdzuYusJM9dWYYJLnk3ruJNWczkxQ&_nc_ht=scontent.fccu14-1.fna&oh=00_AfBaS2yrHo7FLrnJoITFFFYrKjje3Hp49csxpxcUVSJArA&oe=65C52A69"
+      image="https://images.unsplash.com/photo-1709418354357-a75ccbb90a3d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       alt="Paella dish"
     />
     <CardContent>
